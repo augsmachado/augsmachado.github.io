@@ -2,7 +2,7 @@
 
 A Simple, Clean and responsive modern blog for jekyll.
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+My portfolio is based in Modern Blog, see in https://augsmachado.github.io
 
 ## Attributions
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)

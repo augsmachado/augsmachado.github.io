@@ -1,8 +1,6 @@
 # Jekyll Modern Blog
 
-A Simple, Clean and responsive modern blog for jekyll.
-
-My portfolio is based in Modern Blog, see in https://augsmachado.github.io
+A Simple, Clean and responsive modern portfolio for jekyll.
 
 ## Attributions
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)

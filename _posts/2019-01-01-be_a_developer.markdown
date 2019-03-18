@@ -4,7 +4,7 @@ subtitle: "My simple guide for you"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
 image: "img/be_a_developer.jpg"
-date:   2019-01-01 17:12:12
+date:   2019-01-01 03:14:15
 ---
 
 ### Dolor sit amet?

@@ -1,10 +1,10 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
+title:  "What are you doing now?"
+subtitle: "Discover yourself"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
-date:   2019-03-15 12:12:12
+image: "img/what_are_you_doing_now.jfif"
+date:   2019-03-15 03:14:15
 ---
 
 ### Dolor sit amet?

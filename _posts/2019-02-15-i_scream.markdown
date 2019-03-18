@@ -3,8 +3,8 @@ title:  "I scream"
 subtitle: "But do you scream?"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
-date:   2019-02-15 12:12:12
+image: "img/i_scream.jpg"
+date:   2019-02-15 03:14:15
 ---
 
 ### Dolor sit amet?

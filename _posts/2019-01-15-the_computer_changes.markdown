@@ -4,7 +4,7 @@ subtitle: "Trends for computing"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
 image: "img/the_computer_changes.jpg"
-date:   2019-01-15 12:12:12
+date:   2019-01-15 03:14:15
 ---
 
 ### Dolor sit amet?

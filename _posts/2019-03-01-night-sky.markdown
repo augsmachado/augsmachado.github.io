@@ -4,7 +4,7 @@ subtitle: "The quantum computing"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
 image: "img/programming_with_the_particles_of_the_universe.jpg"
-date:   2019-03-01 12:12:12
+date:   2019-03-01 03:14:15
 ---
 
 ### Dolor sit amet?

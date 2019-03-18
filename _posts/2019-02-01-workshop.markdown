@@ -1,10 +1,10 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
+title:  "You'll thank me for it"
+subtitle: "Organize your code"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
-date:   2019-02-01 12:12:12
+image: "img/you_will_thank_me_for_it.jpg"
+date:   2019-02-01 03:14:15
 ---
 
 ### Dolor sit amet?

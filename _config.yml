@@ -1,7 +1,7 @@
 # Site settings
 title: Augs Machado
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun, Portfolio
+description: A modern and elegant portfolio based in Jekyll template
+keywords: Modern, Blogging, Fun, Portfolio, Programming
 author: Augs Machado
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://augsmachado.github.io/" # the base hostname & protocol for your site

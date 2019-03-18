@@ -1,10 +1,10 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
+title:  "Nobody else was around."
+subtitle: "A Beautiful shot during the night."
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
-image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+image: "img/b.jpg"
+date:   2019-03-15 12:12:12
 ---
 
 ### Dolor sit amet?

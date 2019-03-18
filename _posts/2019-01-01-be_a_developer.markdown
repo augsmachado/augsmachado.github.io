@@ -1,10 +1,10 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
+title:  "Be a Developer!"
+subtitle: "My simple guide for you"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+image: "img/be_a_developer.jpg"
+date:   2019-01-01 17:12:12
 ---
 
 ### Dolor sit amet?

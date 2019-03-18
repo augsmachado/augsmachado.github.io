@@ -1,10 +1,10 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
+title:  "The computer changes"
+subtitle: "Trends for computing"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+image: "img/the_computer_changes.jpg"
+date:   2019-01-15 12:12:12
 ---
 
 ### Dolor sit amet?

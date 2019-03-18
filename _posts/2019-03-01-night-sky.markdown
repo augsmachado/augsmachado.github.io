@@ -1,10 +1,10 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+title:  "Programming with the particles of the Universe"
+subtitle: "The quantum computing"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+image: "img/programming_with_the_particles_of_the_universe.jpg"
+date:   2019-03-01 12:12:12
 ---
 
 ### Dolor sit amet?

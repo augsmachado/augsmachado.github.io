@@ -7,8 +7,10 @@ image: "img/atm.png"
 date:   2018-09-02 03:14:15
 ---
 
-The goal was to develop an ATM system or a bank self-service platform, from project design, interface design and project architecture to system implementation. In addition to developing the notion of programming in general, know the fundamentals of embedded software programming, in addition to developing advanced knowledge in C / C ++. Project available in **[ATM project](https://github.com/augsmachado/atm)**
+The goal was to develop an ATM system or a bank self-service platform, from project design, interface design and project architecture to system implementation. In addition to developing the notion of programming in general, know the fundamentals of embedded software programming, in addition to developing advanced knowledge in C / C ++.
+
+Project available in **[ATM project](https://github.com/augsmachado/atm)**
 
 
 ## Referências Bibliográficas
-[1] Post image available in [Pixbay](https://pixabay.com/pt/vectors/atm-banc%C3%A1rio-retirada-homem-3077727/)
+[1] Image used in post available in [Pixbay](https://pixabay.com/pt/vectors/atm-banc%C3%A1rio-retirada-homem-3077727/)

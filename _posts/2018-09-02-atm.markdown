@@ -3,7 +3,7 @@ title:  "ATM"
 subtitle: "A simple bank self-service platform"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
-image: "img/atm.jpg"
+image: "img/atm.png"
 date:   2018-09-02 03:14:15
 ---
 

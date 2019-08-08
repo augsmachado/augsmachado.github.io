@@ -99,12 +99,12 @@ Desejo que tenha muito sucesso e espero ter te ajudado de alguma forma.
 
 ## Referências Bibliográficas
 
-[1] BRANDÃO, Daniel. Profissão: Desenvolvedor. Disponível em [https://www.slideshare.net/profDanielBrandao/palestra-profisso-desenvolvedor](https://www.slideshare.net/profDanielBrandao/palestra-profisso-desenvolvedor). Acesso em 26-12-2018
+[1] BRANDÃO, Daniel. Profissão: Desenvolvedor. Disponível em **[https://www.slideshare.net/profDanielBrandao/palestra-profisso-desenvolvedor](https://www.slideshare.net/profDanielBrandao/palestra-profisso-desenvolvedor)**. Acesso em 26-12-2018
 
-[2] FOX, Pamela. O que é Programação?. Disponível em [https://pt.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro](https://pt.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro). Acesso em 26-12-2018
+[2] FOX, Pamela. O que é Programação?. Disponível em **[https://pt.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro](https://pt.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro)**. Acesso em 26-12-2018
 
-[3] ABDO, Humberto. 5 razões científicas para aprender outro idioma. Disponível em [https://revistagalileu.globo.com/Sociedade/noticia/2016/12/5-razoes-cientificas-para-aprender-outro-idioma.html](https://revistagalileu.globo.com/Sociedade/noticia/2016/12/5-razoes-cientificas-para-aprender-outro-idioma.html). Acesso em 26-12-2018
+[3] ABDO, Humberto. 5 razões científicas para aprender outro idioma. Disponível em **[https://revistagalileu.globo.com/Sociedade/noticia/2016/12/5-razoes-cientificas-para-aprender-outro-idioma.html](https://revistagalileu.globo.com/Sociedade/noticia/2016/12/5-razoes-cientificas-para-aprender-outro-idioma.html)**. Acesso em 26-12-2018
 
-[4] ANDRADE, Thiago Faria de. Backend vs. Frontend vs. Fullstack: Escolha o seu futuro como programador!. Disponível em [https://blog.algaworks.com/back-end-front-end-full-stack/](https://blog.algaworks.com/back-end-front-end-full-stack/). Acesso em 29-12-2018
+[4] ANDRADE, Thiago Faria de. Backend vs. Frontend vs. Fullstack: Escolha o seu futuro como programador!. Disponível em **[https://blog.algaworks.com/back-end-front-end-full-stack/](https://blog.algaworks.com/back-end-front-end-full-stack/)**. Acesso em 29-12-2018
 
-[5] FARIA, Tulio. O que é DevOps? - Canal DevPleno. Disponível em [https://www.youtube.com/watch?v=EJEeVf53tiI?rel=0](https://www.youtube.com/watch?v=EJEeVf53tiI?rel=0). Acesso em 29-12-2018.
+[5] FARIA, Tulio. O que é DevOps? - Canal DevPleno. Disponível em **[https://www.youtube.com/watch?v=EJEeVf53tiI?rel=0](https://www.youtube.com/watch?v=EJEeVf53tiI?rel=0)**. Acesso em 29-12-2018.

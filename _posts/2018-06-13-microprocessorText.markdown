@@ -1,9 +1,9 @@
 ---
 title:  "Microprocessor text"
-subtitle: "Organizar e dominar a complexidade"
+subtitle: "My little Word"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
-image: "img/microprocessorText.png"
+image: "img/microprocessorText.jpg"
 date:   2018-06-13 03:14:15
 ---
 

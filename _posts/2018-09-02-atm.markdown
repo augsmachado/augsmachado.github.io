@@ -1,0 +1,12 @@
+---
+title:  "ATM"
+subtitle: "Organizar e dominar a complexidade"
+author: "Augs Machado"
+avatar: "img/authors/wferr.png"
+image: "img/atm.jpg"
+date:   2018-09-02 03:14:15
+---
+
+The goal was to develop an ATM system or a bank self-service platform, from project design, interface design and project architecture to system implementation. In addition to developing the notion of programming in general, know the fundamentals of embedded software programming, in addition to developing advanced knowledge in C / C ++.
+
+Acess: [ATM project](https://github.com/augsmachado/atm)

@@ -1,9 +1,9 @@
 ---
-title:  "A arte de programar"
-subtitle: "Organizar e dominar a complexidade"
+title:  "The programming art"
+subtitle: "Organize and domine the complexity"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
-image: "img/a_arte_de_programar.jpg"
+image: "img/theProgrammingArt.jpg"
 date:   2018-12-29 03:14:15
 ---
 

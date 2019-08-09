@@ -4,7 +4,7 @@ subtitle: "Organizar e dominar a complexidade"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
 image: "img/a_arte_de_programar.jpg"
-date:   2019-01-01 03:14:15
+date:   2018-12-29 03:14:15
 ---
 
 > "A arte de programar consiste na arte de organizar e dominar a complexidade." - Edsger Dijkstra

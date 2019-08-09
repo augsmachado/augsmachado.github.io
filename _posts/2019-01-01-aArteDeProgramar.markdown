@@ -1,5 +1,5 @@
 ---
-title:  "The programming art"
+title:  "The art of programming"
 subtitle: "Organize and domine the complexity"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"

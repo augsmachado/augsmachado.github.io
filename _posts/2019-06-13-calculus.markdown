@@ -8,5 +8,5 @@ date:   2019-06-13 03:14:15
 ---
 Calculus is a simple calculator for high school students and created in C++. Project available in **[Calculus project](https://github.com/augsmachado/calculus)**
 
-## Referências Bibliográficas
+## References
 [1] Image used in post available in [Pixbay](https://pixabay.com/pt/photos/calculadora-c%C3%A1lculo-seguro-finan%C3%A7as-385506/)

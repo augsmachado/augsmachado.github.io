@@ -14,5 +14,5 @@ This repository is designed to use C in order to solidify the concepts of langua
 
 Project available in **[Microprocessor Text project](https://github.com/augsmachado/microprocessorText/)**
 
-## Referências Bibliográficas
+## References
 [1] Image used in post available in [Pixbay](https://pixabay.com/pt/photos/livros-livros-antigos-leitura-1141910/)

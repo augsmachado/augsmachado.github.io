@@ -1,6 +1,6 @@
 ---
 title:  "Rock, paper or scissors?"
-subtitle: "A simple bank self-service platform"
+subtitle: "A simultaneous zero-sum game"
 author: "Augs Machado"
 avatar: "img/authors/wferr.png"
 image: "img/rockPaperScissors.jpg"

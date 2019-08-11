@@ -35,4 +35,4 @@ The narrative of what the system and the user performed is described through a s
 6. To win, the user needs to hit occult number of your screen.
 
 ### References
-[1] Image used in post available in [Pixbay](https://pixabay.com/photos/cube-play-craps-colorful-568059/)
+[1] Image used in post available in [Pixbay](https://pixabay.com/photos/roll-the-dice-craps-board-game-1502706/)

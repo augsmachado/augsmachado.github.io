@@ -12,9 +12,4 @@ This site is referece about [Basic Markdown](https://www.markdownguide.org/basic
 ## Attributions
 This site is based in Jekyll.
 
-Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222).
-Using Sample images from [Fancy Crave](http://fancycrave.com/).
-
-Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222).
-
-Created by Claudio Calautti for Codrops.
+Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222). Theme created by Claudio Calautti for Codrops.
